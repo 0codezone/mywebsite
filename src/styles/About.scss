@@ -1,10 +1,15 @@
 .about{
-    background-color: rgb(190, 182, 70);
+    background: linear-gradient( rgb(0, 119, 255), rgb(132, 0, 255));
     text-align: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     
 
     h1{
-        font-size: 2rem;
-        color: black;
+        font-size: 4rem;
+        color: white;
+        font-weight: 400;
     }
 }
